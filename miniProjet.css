@@ -1,0 +1,26 @@
+.container{
+	background-color: #FCFAFA;
+	
+}
+
+.etoile{
+	 width: 25px;
+    height: 25px;
+}
+.agneau{
+	width: auto;
+	height: auto
+}
+.cercle{
+	 width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 0.85em;
+    line-height: 80%;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.indication{
+	margin: 4px;
+}
